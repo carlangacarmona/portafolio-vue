@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-[#0A0A0B] text-white;
+  font-family: 'Inter', sans-serif;
+}
+
+.router-link-active {
+  @apply text-purple-500;
+}
