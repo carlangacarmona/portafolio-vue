@@ -1,7 +1,7 @@
 Portafolio 2025
 
 Revisar app en el siguiente link:
-https://carlangacarmona.github.io/portafolio-vue/)<br><br>
+https://carlangacarmona.github.io/portafolio-vue<br><br>
 
 <h3>Vista Inicio</h3>
 <img src="https://www.semarketing.click/screen1.png"><br><br>
