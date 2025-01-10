@@ -10,7 +10,7 @@ https://carlangacarmona.github.io/portafolio-vue/)<br><br>
 <img src="https://www.semarketing.click/screen2.png"><br><br>
 
 <h3>Vista Proyecto</h3>
-<img src="https://www.semarketing.click/screen5.png"><br><br>
+<img src="https://www.semarketing.click/screen3.png"><br><br>
 
 <h3>Vista Contacto</h3>
-<img src="https://www.semarketing.click/screen3.png"><br><br>
+<img src="https://www.semarketing.click/screen4.png"><br><br>
